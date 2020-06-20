@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MisRedesSociales</string>
+    <string name="facebook_app_id">2780784518917297</string>
+    <string name="fb_login_protocol_scheme">fb2780784518917297</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="ok">OK</string>
+    <string name="FBexception">FacebookAuthorizationException.</string>
+</resources>
